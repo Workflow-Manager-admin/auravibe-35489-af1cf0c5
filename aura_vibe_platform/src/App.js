@@ -1,14 +1,14 @@
 import React from 'react';
 import './App.css';
-import MainContainerAuraVibe from './MainContainerAuraVibe';
+import AppShell from './AppShell';
 
 // PUBLIC_INTERFACE
 function App() {
   /**
-   * Entry point: renders the main AuraVibe container.
+   * Entry point: renders the main AuraVibe My AuraGram app shell (layout, routing, providers).
    */
   return (
-    <MainContainerAuraVibe />
+    <AppShell />
   );
 }
 

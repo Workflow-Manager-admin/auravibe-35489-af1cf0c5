@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Enforce Times New Roman and color design globally */
+html, body, #root {
+  font-family: 'Times New Roman', Times, serif !important;
+  background: #000 !important;
+  color: #fff !important;
+  min-height: 100%;
+}
+::-webkit-scrollbar {
+  width: 13px;
+  background: #151518;
+}
+::-webkit-scrollbar-thumb {
+  background: #30303c;
+  border-radius: 8px;
+}

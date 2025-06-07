@@ -2,9 +2,9 @@
 > react-kavia@0.1.0 start
 > react-scripts start
 
-(node:1578) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:4135) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-(node:1578) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:4135) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
 Starting the development server...
 
 Compiled successfully!
@@ -21,3 +21,1047 @@ webpack compiled successfully
 Compiling...
 Compiled successfully!
 webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+ERROR in ./src/AppShell.js 22:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 26:0-41
+Module not found: Error: Can't resolve './components/TopBar' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 27:0-43
+Module not found: Error: Can't resolve './components/SideNav' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 28:0-57
+Module not found: Error: Can't resolve './components/StoriesSidebar' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 29:0-69
+Module not found: Error: Can't resolve './components/NotificationsSidebar' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 31:42-64
+Module not found: Error: Can't resolve './pages/Feed' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 33:46-71
+Module not found: Error: Can't resolve './pages/Explore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 35:46-71
+Module not found: Error: Can't resolve './pages/Profile' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 37:47-73
+Module not found: Error: Can't resolve './pages/Messages' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 39:53-85
+Module not found: Error: Can't resolve './pages/AdminDashboard' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 41:48-74
+Module not found: Error: Can't resolve './pages/AuthPage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 11:0-45
+Module not found: Error: Can't resolve 'firebase/app' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 12:0-60
+Module not found: Error: Can't resolve 'firebase/auth' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+webpack compiled with 15 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+ERROR in ./src/AppShell.js 22:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 27:0-43
+Module not found: Error: Can't resolve './components/SideNav' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 28:0-57
+Module not found: Error: Can't resolve './components/StoriesSidebar' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 29:0-69
+Module not found: Error: Can't resolve './components/NotificationsSidebar' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 31:42-64
+Module not found: Error: Can't resolve './pages/Feed' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 33:46-71
+Module not found: Error: Can't resolve './pages/Explore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 35:46-71
+Module not found: Error: Can't resolve './pages/Profile' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 37:47-73
+Module not found: Error: Can't resolve './pages/Messages' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 39:53-85
+Module not found: Error: Can't resolve './pages/AdminDashboard' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 41:48-74
+Module not found: Error: Can't resolve './pages/AuthPage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 11:0-45
+Module not found: Error: Can't resolve 'firebase/app' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 12:0-60
+Module not found: Error: Can't resolve 'firebase/auth' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+webpack compiled with 14 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+ERROR in ./src/AppShell.js 22:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 28:0-57
+Module not found: Error: Can't resolve './components/StoriesSidebar' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 29:0-69
+Module not found: Error: Can't resolve './components/NotificationsSidebar' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 31:42-64
+Module not found: Error: Can't resolve './pages/Feed' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 33:46-71
+Module not found: Error: Can't resolve './pages/Explore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 35:46-71
+Module not found: Error: Can't resolve './pages/Profile' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 37:47-73
+Module not found: Error: Can't resolve './pages/Messages' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 39:53-85
+Module not found: Error: Can't resolve './pages/AdminDashboard' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 41:48-74
+Module not found: Error: Can't resolve './pages/AuthPage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/components/SideNav.js 12:0-43
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src/components'
+
+ERROR in ./src/firebase.js 11:0-45
+Module not found: Error: Can't resolve 'firebase/app' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 12:0-60
+Module not found: Error: Can't resolve 'firebase/auth' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+webpack compiled with 14 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+ERROR in ./src/AppShell.js 22:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 29:0-69
+Module not found: Error: Can't resolve './components/NotificationsSidebar' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 31:42-64
+Module not found: Error: Can't resolve './pages/Feed' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 33:46-71
+Module not found: Error: Can't resolve './pages/Explore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 35:46-71
+Module not found: Error: Can't resolve './pages/Profile' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 37:47-73
+Module not found: Error: Can't resolve './pages/Messages' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 39:53-85
+Module not found: Error: Can't resolve './pages/AdminDashboard' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 41:48-74
+Module not found: Error: Can't resolve './pages/AuthPage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/components/SideNav.js 12:0-43
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src/components'
+
+ERROR in ./src/firebase.js 11:0-45
+Module not found: Error: Can't resolve 'firebase/app' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 12:0-60
+Module not found: Error: Can't resolve 'firebase/auth' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+webpack compiled with 13 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+ERROR in ./src/AppShell.js 22:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 31:42-64
+Module not found: Error: Can't resolve './pages/Feed' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 33:46-71
+Module not found: Error: Can't resolve './pages/Explore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 35:46-71
+Module not found: Error: Can't resolve './pages/Profile' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 37:47-73
+Module not found: Error: Can't resolve './pages/Messages' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 39:53-85
+Module not found: Error: Can't resolve './pages/AdminDashboard' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 41:48-74
+Module not found: Error: Can't resolve './pages/AuthPage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/components/SideNav.js 12:0-43
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src/components'
+
+ERROR in ./src/firebase.js 11:0-45
+Module not found: Error: Can't resolve 'firebase/app' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 12:0-60
+Module not found: Error: Can't resolve 'firebase/auth' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+webpack compiled with 12 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+ERROR in ./src/AppShell.js 22:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 33:46-71
+Module not found: Error: Can't resolve './pages/Explore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 35:46-71
+Module not found: Error: Can't resolve './pages/Profile' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 37:47-73
+Module not found: Error: Can't resolve './pages/Messages' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 39:53-85
+Module not found: Error: Can't resolve './pages/AdminDashboard' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 41:48-74
+Module not found: Error: Can't resolve './pages/AuthPage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/components/SideNav.js 12:0-43
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src/components'
+
+ERROR in ./src/firebase.js 11:0-45
+Module not found: Error: Can't resolve 'firebase/app' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 12:0-60
+Module not found: Error: Can't resolve 'firebase/auth' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+webpack compiled with 11 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+ERROR in ./src/AppShell.js 22:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 35:46-71
+Module not found: Error: Can't resolve './pages/Profile' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 37:47-73
+Module not found: Error: Can't resolve './pages/Messages' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 39:53-85
+Module not found: Error: Can't resolve './pages/AdminDashboard' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 41:48-74
+Module not found: Error: Can't resolve './pages/AuthPage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/components/SideNav.js 12:0-43
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src/components'
+
+ERROR in ./src/firebase.js 11:0-45
+Module not found: Error: Can't resolve 'firebase/app' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 12:0-60
+Module not found: Error: Can't resolve 'firebase/auth' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+webpack compiled with 10 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+ERROR in ./src/AppShell.js 22:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 37:47-73
+Module not found: Error: Can't resolve './pages/Messages' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 39:53-85
+Module not found: Error: Can't resolve './pages/AdminDashboard' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 41:48-74
+Module not found: Error: Can't resolve './pages/AuthPage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/components/SideNav.js 12:0-43
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src/components'
+
+ERROR in ./src/firebase.js 11:0-45
+Module not found: Error: Can't resolve 'firebase/app' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 12:0-60
+Module not found: Error: Can't resolve 'firebase/auth' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+webpack compiled with 9 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+ERROR in ./src/AppShell.js 22:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 39:53-85
+Module not found: Error: Can't resolve './pages/AdminDashboard' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 41:48-74
+Module not found: Error: Can't resolve './pages/AuthPage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/components/SideNav.js 12:0-43
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src/components'
+
+ERROR in ./src/firebase.js 11:0-45
+Module not found: Error: Can't resolve 'firebase/app' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 12:0-60
+Module not found: Error: Can't resolve 'firebase/auth' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+webpack compiled with 8 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+ERROR in ./src/AppShell.js 22:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/AppShell.js 41:48-74
+Module not found: Error: Can't resolve './pages/AuthPage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/components/SideNav.js 12:0-43
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src/components'
+
+ERROR in ./src/firebase.js 11:0-45
+Module not found: Error: Can't resolve 'firebase/app' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 12:0-60
+Module not found: Error: Can't resolve 'firebase/auth' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+webpack compiled with 7 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+ERROR in ./src/AppShell.js 22:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/components/SideNav.js 12:0-43
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src/components'
+
+ERROR in ./src/firebase.js 11:0-45
+Module not found: Error: Can't resolve 'firebase/app' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 12:0-60
+Module not found: Error: Can't resolve 'firebase/auth' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+webpack compiled with 6 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+LOG from webpack.FileSystemInfo
+<w> Managed item /home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/react-router-dom isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
++ 13 hidden lines
+
+ERROR in ./src/AppShell.js 22:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/components/SideNav.js 12:0-43
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src/components'
+
+ERROR in ./src/firebase.js 11:0-45
+Module not found: Error: Can't resolve 'firebase/app' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 12:0-60
+Module not found: Error: Can't resolve 'firebase/auth' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+webpack compiled with 6 errors
+Compiling...
+Failed to compile.
+
+Attempted import error: 'Navigate' is not exported from 'react-router-dom' (imported as 'Navigate').
+LOG from webpack.FileSystemInfo
+<w> Managed item /home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/react-router isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
++ 13 hidden lines
+
+ERROR in ./src/AppShell.js 55:32-40
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 76:30-36
+export 'BrowserRouter' (imported as 'Router') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 103:43-49
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 104:46-51
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 121:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 138:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 155:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 172:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 189:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 21:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 37:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 53:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 69:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 85:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/firebase.js 11:0-45
+Module not found: Error: Can't resolve 'firebase/app' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 12:0-60
+Module not found: Error: Can't resolve 'firebase/auth' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./node_modules/react-router-dom/dist/index.mjs 13:0-66
+Module not found: Error: Can't resolve 'react-router/dom' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/react-router-dom/dist'
+
+ERROR in ./node_modules/react-router-dom/dist/index.mjs 14:0-29
+Module not found: Error: Can't resolve 'react-router' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/react-router-dom/dist'
+
+webpack compiled with 20 errors
+Compiling...
+Failed to compile.
+
+Attempted import error: 'Navigate' is not exported from 'react-router-dom' (imported as 'Navigate').
+ERROR in ./src/AppShell.js 55:32-40
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 76:30-36
+export 'BrowserRouter' (imported as 'Router') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 103:43-49
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 104:46-51
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 121:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 138:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 155:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 172:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 189:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 21:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 37:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 53:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 69:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 85:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/firebase.js 11:0-45
+Module not found: Error: Can't resolve 'firebase/app' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 12:0-60
+Module not found: Error: Can't resolve 'firebase/auth' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+webpack compiled with 18 errors
+Compiling...
+Failed to compile.
+
+Attempted import error: 'Navigate' is not exported from 'react-router-dom' (imported as 'Navigate').
+ERROR in ./src/AppShell.js 55:32-40
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 76:30-36
+export 'BrowserRouter' (imported as 'Router') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 103:43-49
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 104:46-51
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 121:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 138:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 155:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 172:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 189:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 21:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 37:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 53:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 69:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 85:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/firebase.js 11:0-45
+Module not found: Error: Can't resolve 'firebase/app' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 12:0-60
+Module not found: Error: Can't resolve 'firebase/auth' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+webpack compiled with 18 errors
+Compiling...
+Failed to compile.
+
+Attempted import error: 'Navigate' is not exported from 'react-router-dom' (imported as 'Navigate').
+ERROR in ./src/AppShell.js 55:32-40
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 76:30-36
+export 'BrowserRouter' (imported as 'Router') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 103:43-49
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 104:46-51
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 121:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 138:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 155:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 172:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 189:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 21:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 37:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 53:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 69:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 85:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/firebase.js 11:0-45
+Module not found: Error: Can't resolve 'firebase/app' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 12:0-60
+Module not found: Error: Can't resolve 'firebase/auth' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+webpack compiled with 18 errors
+Compiling...
+Failed to compile.
+
+Attempted import error: 'Navigate' is not exported from 'react-router-dom' (imported as 'Navigate').
+LOG from webpack.FileSystemInfo
+<w> Managed item /home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
++ 13 hidden lines
+
+ERROR in ./src/AppShell.js 55:32-40
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 76:30-36
+export 'BrowserRouter' (imported as 'Router') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 103:43-49
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 104:46-51
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 121:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 138:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 155:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 172:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 189:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 21:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 37:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 53:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 69:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 85:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/firebase.js 11:0-45
+Module not found: Error: Can't resolve 'firebase/app' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 12:0-60
+Module not found: Error: Can't resolve 'firebase/auth' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+webpack compiled with 18 errors
+Compiling...
+Failed to compile.
+
+Attempted import error: 'Navigate' is not exported from 'react-router-dom' (imported as 'Navigate').
+LOG from webpack.FileSystemInfo
+<w> Managed item /home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
++ 14 hidden lines
+
+ERROR in ./src/AppShell.js 55:32-40
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 76:30-36
+export 'BrowserRouter' (imported as 'Router') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 103:43-49
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 104:46-51
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 121:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 138:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 155:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 172:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 189:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 21:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 37:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 53:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 69:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 85:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/firebase.js 11:0-45
+Module not found: Error: Can't resolve 'firebase/app' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 12:0-60
+Module not found: Error: Can't resolve 'firebase/auth' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+webpack compiled with 18 errors
+Compiling...
+Failed to compile.
+
+Attempted import error: 'Navigate' is not exported from 'react-router-dom' (imported as 'Navigate').
+LOG from webpack.FileSystemInfo
+<w> Managed item /home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
++ 14 hidden lines
+
+WARNING in ./node_modules/firebase/app/dist/esm/index.esm.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase/app/dist/esm/index.esm.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase/app/dist/esm/index.esm.js.map'
+
+WARNING in ./node_modules/firebase/auth/dist/esm/index.esm.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase/auth/dist/esm/index.esm.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase/auth/dist/esm/index.esm.js.map'
+
+ERROR in ./src/AppShell.js 55:32-40
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 76:30-36
+export 'BrowserRouter' (imported as 'Router') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 103:43-49
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 104:46-51
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 121:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 138:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 155:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 172:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 189:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 21:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 37:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 53:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 69:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 85:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/firebase.js 13:0-50
+Module not found: Error: Can't resolve 'firebase/firestore' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+ERROR in ./src/firebase.js 14:0-46
+Module not found: Error: Can't resolve 'firebase/storage' in '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/src'
+
+webpack compiled with 16 errors and 2 warnings
+Compiling...
+Failed to compile.
+
+Attempted import error: 'Navigate' is not exported from 'react-router-dom' (imported as 'Navigate').
+WARNING in ./node_modules/firebase/app/dist/esm/index.esm.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase/app/dist/esm/index.esm.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase/app/dist/esm/index.esm.js.map'
+
+WARNING in ./node_modules/firebase/auth/dist/esm/index.esm.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase/auth/dist/esm/index.esm.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase/auth/dist/esm/index.esm.js.map'
+
+ERROR in ./src/AppShell.js 55:32-40
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 76:30-36
+export 'BrowserRouter' (imported as 'Router') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 103:43-49
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 104:46-51
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 121:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 138:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 155:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 172:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 189:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 21:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 37:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 53:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 69:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 85:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+webpack compiled with 14 errors and 2 warnings
+Compiling...
+Failed to compile.
+
+Attempted import error: 'Navigate' is not exported from 'react-router-dom' (imported as 'Navigate').
+WARNING in ./node_modules/firebase/app/dist/esm/index.esm.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase/app/dist/esm/index.esm.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase/app/dist/esm/index.esm.js.map'
+
+WARNING in ./node_modules/firebase/auth/dist/esm/index.esm.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase/auth/dist/esm/index.esm.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase/auth/dist/esm/index.esm.js.map'
+
+ERROR in ./src/AppShell.js 55:32-40
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 76:30-36
+export 'BrowserRouter' (imported as 'Router') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 103:43-49
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 104:46-51
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 121:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 138:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 155:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 172:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 189:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 21:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 37:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 53:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 69:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 85:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+webpack compiled with 14 errors and 2 warnings
+Compiling...
+Failed to compile.
+
+Attempted import error: 'Navigate' is not exported from 'react-router-dom' (imported as 'Navigate').
+WARNING in ./node_modules/firebase/app/dist/esm/index.esm.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase/app/dist/esm/index.esm.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase/app/dist/esm/index.esm.js.map'
+
+WARNING in ./node_modules/firebase/auth/dist/esm/index.esm.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase/auth/dist/esm/index.esm.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform/node_modules/firebase/auth/dist/esm/index.esm.js.map'
+
+ERROR in ./src/AppShell.js 55:32-40
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 76:30-36
+export 'BrowserRouter' (imported as 'Router') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 103:43-49
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 104:46-51
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 121:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 138:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 155:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 172:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/AppShell.js 189:45-50
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 21:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 37:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 53:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 69:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/SideNav.js 85:39-46
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+webpack compiled with 14 errors and 2 warnings
