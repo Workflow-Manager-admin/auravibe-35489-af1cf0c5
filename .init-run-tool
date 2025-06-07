@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/auravibe-35489-af1cf0c5/aura_vibe_platform"
+}
